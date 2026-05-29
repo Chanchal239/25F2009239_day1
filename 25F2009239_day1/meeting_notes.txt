@@ -1,0 +1,4 @@
+Notes:
+- Discussed branching strategy
+- Resolved initial merge issues
+- Confirmed timeline for Task 3 and Task 4

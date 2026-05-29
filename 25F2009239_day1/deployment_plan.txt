@@ -1,0 +1,4 @@
+Step 1: Code Review
+Step 2: Automated Testing
+Step 3: Staging Deployment
+Step 4: Production Release
